@@ -10,8 +10,8 @@
         <IncludeContentInPack>true</IncludeContentInPack>
         <ContentTargetFolders>content</ContentTargetFolders>
         <PackageId>Emik.Morsels.ProjectTemplates</PackageId>
+        <PackageTags>dotnet dotnet-new Morsels Scaffold Templates</PackageTags>
         <Description>Templates as part of the Emik.Morsels project.</Description>
-        <PackageTags>dotnet new dotnet-new Scaffold Morsels Templates</PackageTags>
         <RepositoryUrl>https://github.com/Emik03/Emik.Morsels.ProjectTemplates</RepositoryUrl>
         <PackageProjectUrl>https://github.com/Emik03/Emik.Morsels.ProjectTemplates</PackageProjectUrl>
     </PropertyGroup>
