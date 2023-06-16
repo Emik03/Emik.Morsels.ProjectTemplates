@@ -10,6 +10,7 @@
         <IncludeContentInPack>true</IncludeContentInPack>
         <ContentTargetFolders>content</ContentTargetFolders>
         <PackageId>Emik.Morsels.ProjectTemplates</PackageId>
+        <DefineConstants>$(DefineConstants);NO_SYSTEM_MEMORY</DefineConstants>
         <PackageTags>dotnet dotnet-new Morsels Scaffold Templates</PackageTags>
         <Description>Templates as part of the Emik.Morsels project.</Description>
         <RepositoryUrl>https://github.com/Emik03/Emik.Morsels.ProjectTemplates</RepositoryUrl>
