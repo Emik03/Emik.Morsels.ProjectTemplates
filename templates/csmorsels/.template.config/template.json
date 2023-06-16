@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "Emik",
+  "shortName": "csmorsels",
+  "sourceName": "csmorsels",
+  "name": "Emik.Morsels C# Project",
+  "identity": "Emik.Morsels.ProjectTemplates.CSharp",
+  "classifications": [
+    "Common",
+    "Console",
+    "Morsels"
+  ],
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

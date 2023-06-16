@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/template",
+  "author": "Emik",
+  "shortName": "fsmorsels",
+  "sourceName": "fsmorsels",
+  "name": "Emik.Morsels F# Project",
+  "identity": "Emik.Morsels.ProjectTemplates.FSharp",
+  "classifications": [
+    "Common",
+    "Console",
+    "Morsels"
+  ],
+  "tags": {
+    "language": "F#",
+    "type": "project"
+  }
+}
