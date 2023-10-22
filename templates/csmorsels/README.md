@@ -1,12 +1,11 @@
 # csmorsels
 
-[![NuGet package](https://img.shields.io/nuget/v/csmorsels.svg?logo=NuGet)](https://www.nuget.org/packages/csmorsels)
-[![License](https://img.shields.io/github/license/Emik03/csmorsels.svg?style=flat)](https://github.com/Emik03/csmorsels/blob/main/LICENSE)
+[![NuGet package](https://img.shields.io/nuget/v/csmorsels.svg?color=50fa7b&logo=NuGet&style=for-the-badge)](https://www.nuget.org/packages/csmorsels)
+[![License](https://img.shields.io/github/license/Emik03/csmorsels.svg?color=6272a4&style=for-the-badge)](https://github.com/Emik03/csmorsels/blob/main/LICENSE)
 
 Description.
 
-This project has a dependency to [Emik.Morsels](https://github.com/Emik03/Emik.Morsels), if you are building this
-project, refer to its [README](https://github.com/Emik03/Emik.Morsels/blob/main/README.md) first.
+This project has a dependency to [Emik.Morsels](https://github.com/Emik03/Emik.Morsels), if you are building this project, refer to its [README](https://github.com/Emik03/Emik.Morsels/blob/main/README.md) first.
 
 ---
 

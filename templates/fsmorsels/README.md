@@ -1,12 +1,11 @@
 # fsmorsels
 
-[![NuGet package](https://img.shields.io/nuget/v/fsmorsels.svg?logo=NuGet)](https://www.nuget.org/packages/fsmorsels)
-[![License](https://img.shields.io/github/license/Emik03/fsmorsels.svg?style=flat)](https://github.com/Emik03/fsmorsels/blob/main/LICENSE)
+[![NuGet package](https://img.shields.io/nuget/v/fsmorsels.svg?color=50fa7b&logo=NuGet&style=for-the-badge)](https://www.nuget.org/packages/fsmorsels)
+[![License](https://img.shields.io/github/license/Emik03/fsmorsels.svg?color=6272a4&style=for-the-badge)](https://github.com/Emik03/fsmorsels/blob/main/LICENSE)
 
 Description.
 
-This project has a dependency to [Emik.Morsels](https://github.com/Emik03/Emik.Morsels), if you are building this
-project, refer to its [README](https://github.com/Emik03/Emik.Morsels/blob/main/README.md) first.
+This project has a dependency to [Emik.Morsels](https://github.com/Emik03/Emik.Morsels), if you are building this project, refer to its [README](https://github.com/Emik03/Emik.Morsels/blob/main/README.md) first.
 
 ---
 
