@@ -2,6 +2,7 @@
     <PropertyGroup>
         <FileVersion>1.0.1</FileVersion>
         <PackageType>Template</PackageType>
+        <CopyrightSince>2023</CopyrightSince>
         <NoDefaultExcludes>true</NoDefaultExcludes>
         <IncludeBuildOutput>false</IncludeBuildOutput>
         <TargetFramework>netstandard2.0</TargetFramework>
