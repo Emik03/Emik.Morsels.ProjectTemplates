@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
-        <FileVersion>1.0.1</FileVersion>
+        <FileVersion>1.0.2</FileVersion>
         <PackageType>Template</PackageType>
         <CopyrightSince>2023</CopyrightSince>
         <NoDefaultExcludes>true</NoDefaultExcludes>
@@ -16,12 +16,10 @@
         <PackageProjectUrl>https://github.com/Emik03/Emik.Morsels.ProjectTemplates</PackageProjectUrl>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Remove="UnitGenerator"/>
         <Compile Remove="**/*;$(Morsels)/Compile/**/*.cs"/>
         <PackageReference Remove="Emik.Analyzers.Matches"/>
         <PackageReference Remove="Emik.SourceGenerators.Tattoo"/>
         <PackageReference Remove="Emik.SourceGenerators.Implicit"/>
-        <PackageReference Remove="Emik.SourceGenerators.TheSquareHole"/>
         <Content Include="templates/**/*" PackagePath="content/templates"/>
     </ItemGroup>
 </Project>
